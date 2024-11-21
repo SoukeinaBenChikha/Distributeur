@@ -1,0 +1,6 @@
+café noir - 60
+café au lait - 25
+thé - 20
+Thé infusion - 35
+chocolat au Lait - 35
+QUITTER - 0
